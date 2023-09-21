@@ -23,3 +23,7 @@ Below are screenshots from the Streamlit application showing three added blocks.
 #
 
 ![Blockchain Screenshot 2](Images/Screenshot2.png)
+
+#
+
+![Blockchain Screenshot 3](Images/Screenshot3.png)
